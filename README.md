@@ -1,3 +1,3 @@
 <div align="center" backgroundcolor="none">
-  <img src="https://github.com/user-attachments/assets/0a7bbbb6-87df-40d4-99db-27bff19bc285" alt="Welcome Logo">
+  <img src="https://github.com/user-attachments/assets/00b4a243-a5a9-44e3-aaf9-728e7cca0fd2" alt="Welcome Logo">
 </div>
