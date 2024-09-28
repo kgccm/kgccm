@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/00b4a243-a5a9-44e3-aaf9-728e7cca0fd2" alt="Welcome Logo">
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 저는 김지훈입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 부족함을 늘 채워나가려 노력하는 개발자입니다.  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😊안녕하세요 저는 김지훈입니다. </h2>  
+    <div style="font-weight: 600; font-size: 15px; text-align: center; color: #c9d1d9;"> 부족함을 늘 채워나가려 노력하는 개발자입니다.  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
