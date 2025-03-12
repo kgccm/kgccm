@@ -30,9 +30,4 @@
          <a href=mailto:kgccm8480@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kgccm8480@gmail.com"> </a>
          <a href=https://www.notion.so/e3b47a5664424acc845f27be2db0a663> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/e3b47a5664424acc845f27be2db0a663"> </a>
           </div>  <br> 
- 
-    <div align= "center"> 
-    
-    </div> 
-    </div>
-    
+
