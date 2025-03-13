@@ -3,8 +3,8 @@
     <div style="font-weight: 600; font-size: 15px; text-align: center; color: #c9d1d9;"> 부족함을 늘 채워나가려 노력하는 개발자입니다.  </div> 
     </div>
     <div align= "center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kgccm&theme=dark" alt="GitHub Streak" /></a>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kgccm&theme=dark)](https://git.io/streak-stats)
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
